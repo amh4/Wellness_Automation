@@ -1,6 +1,11 @@
 # wellness_automation
 
-Just a note to say this code is not proprietary, it is a project I did in my own time, using the work as inspiration.
+## The Tech
+
+<div align="center">
+	<code><img height="40" src="https://user-images.githubusercontent.com/25181517/183914128-3fc88b4a-4ac1-40e6-9443-9a30182379b7.png" alt="Jupyter Notebook" title="Jupyter Notebook" /></code>
+	<code><img height="40" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python" /></code>
+</div>
 
 ## Purpose
 When working at a Home Care Tech Startup I realised that our company was lacking the ability to gather its data into a coherent picture.
